@@ -1,0 +1,37 @@
+.body {
+  height: 100%;
+  width: 100%;
+  margin: 0 auto;
+  color: white;
+}
+
+.clc {
+  background-color: black;
+  width: 200px;
+  margin: 0 auto;
+  padding: 8px;
+  border-radius: 10px;
+  border: 0;
+  margin-top: 200px;
+}
+
+.counter {
+  color: white;
+  border: 1px solid black;
+  padding-right: 16px;
+  text-align: end;
+  margin: 6px;
+  font-size: 40px;
+  height: 70px;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.clcWrapper {
+  text-align: center;
+  margin: 6px;
+}
+
+.discriptions {
+  padding-top: 200px;
+}
